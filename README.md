@@ -31,6 +31,7 @@ USAGE
 ### Paso 6: Realizar el commit:
 git commit -m "Comentario"
 
-### Paso 7: Ingresar usuario y contraseña para confirmar commit
+### Paso 7: Subir el repositorio, Ingresar usuario y contraseña para confirmar commit
+# Comando: git push
 # Usuario: sovallep
 # Contraseña: "Contraseña de GitHub"
